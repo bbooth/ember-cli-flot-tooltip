@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-flot-tooltip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds tthe jquery flot tooltip plugin to an ember-cli application.",
   "directories": {
     "doc": "doc",
